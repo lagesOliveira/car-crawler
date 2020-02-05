@@ -12,7 +12,10 @@
 	},
 	"require": {
 		"php": ">=5.3.7",
-		"malenki/microdata": "^1.1"
+		"malenki/microdata": "^1.1",
+		"guzzlehttp/guzzle": "^6.5",
+		"symfony/dom-crawler": "^5.0",
+		"symfony/css-selector": "^5.0"
 	},
 	"suggest": {
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
