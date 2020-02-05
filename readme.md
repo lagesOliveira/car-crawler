@@ -15,6 +15,7 @@
 	- [Listing 'DESTAQUES' from initial page](#Get-'DESTAQUES'-from-initial-page)
 	- [Listing Cars and Order Results](#Get-cars-lists)
 	- [Search with parameters](#search-with-parameters)
+	- [Test Images](#test-images)
 
 # The Challenge
 
@@ -193,12 +194,15 @@ Usage example:
 > https://YOUR-DOMAIN/api/searchBy/fiat/palio/ano-2015-2016/preco-20000-25000/km-5000-20000/estado-seminovo/origem-revenda
 
 ```
+## Test Images
 
-## Thanks
+Some use cases images are on screenshot directory
+
+# Thanks
 
 That's it!
 
-## Copyright and license
+# Copyright and license
 
 Code and documentation copyright 2020 the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
 
