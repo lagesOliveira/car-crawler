@@ -1,7 +1,5 @@
 <?php
 
-use Jkphl\Micrometa\Infrastructure\Parser\Microdata;
-
 defined('BASEPATH') or exit('No direct script access allowed');
 
 // URl DE BUSCAS
