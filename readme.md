@@ -57,11 +57,15 @@ $ composer install
 
 The requests results are provides with Microdata encoding markup available from http://schema.org/Car
 
+Fell free to test in 
+https://julio.lagesoliveira.com.br/alpesone/api/
+
 ## Get 'DESTAQUES' from initial page
 
 Random list of 10  announced cars 
+```
 > https://YOUR-DOMAIN/api/getDestaques
-
+```
 
 ## Get cars lists
 
