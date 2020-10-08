@@ -38,7 +38,7 @@ Good look!
 
 # Setup
 
- ## 1. Cone the repo
+ ## 1. Clone the repo
 
 
 ```shell
